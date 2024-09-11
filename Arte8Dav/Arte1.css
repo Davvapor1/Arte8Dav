@@ -1,0 +1,66 @@
+* {
+
+
+    background-color: crimson;
+}
+
+h2 {
+
+    text-align: center;
+    font-family: cursive;
+}
+
+p {
+
+    text-align: center;
+    font-family: cursive;
+}
+
+
+#Super {
+font-weight: bold;
+    border: 13px solid skyblue;
+    padding: 15%;
+display: inline-flex;
+
+
+
+    background-color: rgb(252, 252, 96);
+}
+
+.Az{
+display: inline-flex;
+border: 13px solid forestgreen;
+margin: auto;
+}
+.Aq{
+
+border: 13px solid rgb(215, 244, 250);
+display: inline-flex;
+margin: 3%;
+
+}
+
+
+body{
+
+    text-align: center;
+}
+
+.Nu {
+
+    display: inline-flex;
+    border: 13px solid rgb(34, 50, 139);
+    margin: auto;
+}
+
+.DE {
+
+    text-align: right;
+
+}
+
+.AC  {
+
+    text-align: left;
+}
